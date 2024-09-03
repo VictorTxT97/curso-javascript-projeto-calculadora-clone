@@ -193,7 +193,7 @@ class CalcController {
     }
 
     set displayTime(value) {
-        this._timeE1.innerHTML = value;
+        this._timeE1.innerHTML = value;}
     }
 
     get displayDate() {
@@ -209,7 +209,7 @@ class CalcController {
     }
 
     set displayCalc(value) {
-        this._displayCalcE1.innerHTML = value;
+        this._displayCalcE1.innerHTML = value;}
     }
 
     get currentDate() {
@@ -221,6 +221,7 @@ class CalcController {
     }
 
     naofaznada() {
-        
+
     }
 }
+pujwbdf}
